@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Time-Calulator/static/css/main.241951ba.css",
+    "main.js": "/Time-Calulator/static/js/main.25ff5186.js",
+    "index.html": "/Time-Calulator/index.html",
+    "main.241951ba.css.map": "/Time-Calulator/static/css/main.241951ba.css.map",
+    "main.25ff5186.js.map": "/Time-Calulator/static/js/main.25ff5186.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241951ba.css",
+    "static/js/main.25ff5186.js"
+  ]
+}
